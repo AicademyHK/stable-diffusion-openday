@@ -1,6 +1,6 @@
 # Stable Diffusion
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/stable-diffusion?machine=A4000)
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/AicademyHK/stable-diffusion?machine=RTX4000)
 
 This repo contains notebook files to run the following Latent Diffusion Model derived techniques within a Gradient Notebook:
 
