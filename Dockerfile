@@ -1,4 +1,4 @@
-FROM paperspace/gradient-base:pt112-tf29-jax0314-py39-20220803
+FROM paperspace/gradient-base:pt211-tf215-cudatk120-py311
 RUN pip3 install --upgrade pip
 RUN git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
