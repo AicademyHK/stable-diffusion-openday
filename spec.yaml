@@ -1,4 +1,4 @@
-image: paperspace/stable-diffusion-webui-deployment:v1.1
+image: paperspace/gradient-base:pt211-tf215-cudatk120-py311-20240202
 port: 7860
 command:
   - python
